@@ -83,7 +83,7 @@
         [self initalizeImageCounter];
     }
     [self initializeCaption];
-    [self loadData];
+    // [self loadData];
 }
 
 - (UIColor *) randomColor

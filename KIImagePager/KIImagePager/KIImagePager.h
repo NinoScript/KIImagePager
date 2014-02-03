@@ -32,6 +32,7 @@
 @end
 
 @interface KIImagePager : UIView
+- (void) loadData;
 
 // Delegate and Datasource
 @property (weak) IBOutlet id <KIImagePagerDataSource> dataSource;
