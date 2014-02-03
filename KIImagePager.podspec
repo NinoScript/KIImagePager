@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "KIImagePager"
-  s.version      = "1.4.1"
+  s.version      = "1.4.2"
   s.summary      = "This UIView Subclass is used to present Images loaded from the Web and is inspired from foursquare's Image Slideshow."
   s.homepage     = "https://github.com/kimar/KIImagePager"
   s.screenshots  = "http://kimar.github.io/screenshots/kiimagepager/1ios7.png", "http://kimar.github.io/screenshots/kiimagepager/2ios7.png"
